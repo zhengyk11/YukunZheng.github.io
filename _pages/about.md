@@ -17,6 +17,7 @@ I am now a second-year Master student in [THUIR group](http://www.thuir.cn/), [D
 
 Publications
 ======
+* ***Yukun Zheng***, Jiaxin Mao, Yiqun Liu, Zixin Ye, Min Zhang and Shaoping Ma. Human Behavior Inspired Machine Reading Comprehension. The 41th ACM SIGIR International Conference on Research and Development in Information Retrieval (**SIGIR 2019**).
 * ***Yukun Zheng***, Zhen Fan, Yiqun Liu, Cheng Luo, Min Zhang and Shaoping Ma. Sogou-QCL: A New Dataset with Click Relevance Label. (Short paper). The 40th ACM SIGIR International Conference on Research and Development in Information Retrieval (**SIGIR 2018**).
 * ***Yukun Zheng***, Cheng Luo, Weixuan Wu, Jia Chen, Yiqun Liu, Huanbo Luan, Min Zhang, Shaoping Ma. THUIR at NTCIR-13 WWW Task. Proceedings of the 13th NTCIR Conference on Evaluation of Information Access Technologies (**NTCIR-13**).
 * ***ZHENG Yukun***, LI Dan, FAN Zhen, LIU Yiqun, ZHANG Min, MA Shaoping. T-Reader: A Multi-task Deep Reading Comprehension Model with Self-attention Mechanism. Journal of Chinese Information Processing.
