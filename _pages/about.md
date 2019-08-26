@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a second-year Master student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in User Behavior Model and Machine Reading Comprehension.
+I am now a third-year Master student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in User Behavior Model and Machine Reading Comprehension.
 
 <!--Recent Professional Activities
 ======
