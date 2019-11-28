@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third-year Master student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in User Behavior Model and Machine Reading Comprehension.
+I am now a third-year Master student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in information retrieval and user behavior modeling.
 
 <!--Recent Professional Activities
 ======
@@ -17,6 +17,7 @@ I am now a third-year Master student in [THUIR group](http://www.thuir.cn/), [De
 
 Publications
 ======
+* **Yukun Zheng**, Jiaxin Mao, Yiqun Liu, Mark Sanderson, Min Zhang, Shaoping Ma. Investigating Examination Behavior in Mobile Search. The 13th International Conference on Web Search and Data Mining (**WSDM 2020**).
 * **Yukun Zheng**, Jiaxin Mao, Yiqun Liu, Cheng Luo, Min Zhang, Shaoping Ma. Constructing a Better Click Model for Mobile Search with Viewport Time. ACM Transactions on Information Systems (**TOIS**).
 * **Yukun Zheng**, Jiaxin Mao, Yiqun Liu, Zixin Ye, Min Zhang, Shaoping Ma. Human Behavior Inspired Machine Reading Comprehension. The 41th ACM SIGIR International Conference on Research and Development in Information Retrieval (**SIGIR 2019**).
 * **Yukun Zheng**, Yiqun Liu, Zhen Fan, Cheng Luo, Qingyao Ai, Min Zhang, Shaoping Ma. Investigating Weak Supervision in Deep Ranking. Data and Information Management (**DIM**).
